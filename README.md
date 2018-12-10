@@ -1,6 +1,8 @@
-# fetch-model
+# fetch model
 [![npm](https://img.shields.io/npm/v/@lucky-joel/vue-fetch-model.svg) ![npm](https://img.shields.io/npm/dm/@lucky-joel/fetch-model.svg)](https://www.npmjs.com/package/@lucky-joel/vue-fetch-model)
 [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
+
+获取详情接口的数据。
 
 ## 目录
 - [安装](#安装)
