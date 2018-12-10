@@ -1,8 +1,6 @@
 # fetch-model
-[![npm](https://img.shields.io/npm/v/fetch-model.svg) ![npm](https://img.shields.io/npm/dm/fetch-model.svg)](https://www.npmjs.com/package/fetch-model)
+[![npm](https://img.shields.io/npm/v/vue-fetch-model.svg) ![npm](https://img.shields.io/npm/dm/fetch-model.svg)](https://www.npmjs.com/package/vue-fetch-model)
 [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
-
-fetch model
 
 ## 目录
 - [安装](#安装)
@@ -10,7 +8,7 @@ fetch model
 
 # 安装
 ```
-npm install --save fetch-model
+npm install --save @lucky-joel/vue-fetch-model
 ```
 
 ## 使用
