@@ -1,3 +1,3 @@
-export { default } from './dist/fetch-model.common'
-export * from './dist/fetch-model.common'
-import './dist/fetch-model.css'
+export { default } from './dist/vue-fetch-model.common'
+export * from './dist/vue-fetch-model.common'
+import './dist/vue-fetch-model.css'
