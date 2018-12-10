@@ -49,6 +49,9 @@ export default {
 </script>
 ```
 
+参数:  
+* url: 接口地址。必填。
+
 ## 构建
 ```
 npm run build
