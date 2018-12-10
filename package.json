@@ -1,14 +1,14 @@
 {
   "name": "@lucky-joel/vue-fetch-model",
   "description": "fetch model",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": {
     "name": "Joel",
     "email": "iamjoel007@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamjoel/vue-list.git"
+    "url": "git+https://github.com/iamjoel/vue-fetch-model.git"
   },
   "keywords": [
     "vue",

@@ -28,7 +28,7 @@ npm install --save @lucky-joel/vue-fetch-model
     <lj-fetch-model 
       :url="[
         $SERVER_PREFIX + '/singer/detail/1',
-        $SERVER_PREFIX + '/singer/detail/2',
+        $SERVER_PREFIX + '/song/detail/2',
       ]">
       <template slot-scope="scope">
         接口1数据：{{scope.data[0].name}} <br>
