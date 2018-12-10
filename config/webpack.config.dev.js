@@ -2,7 +2,7 @@ var merge = require('webpack-merge')
 var base = require('./webpack.config.base')
 var path = require('path')
 
-var outputFile = 'fetch-model'
+var outputFile = 'vue-fetch-model'
 var globalName = 'FetchModel'
 
 module.exports = merge(base, {

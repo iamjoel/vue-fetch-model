@@ -1,7 +1,7 @@
 var webpack = require('webpack')
 var ExtractTextPlugin = require('extract-text-webpack-plugin')
 
-var outputFile = 'fetch-model'
+var outputFile = 'vue-fetch-model'
 var globalName = 'FetchModel'
 
 var config = require('../package.json')
